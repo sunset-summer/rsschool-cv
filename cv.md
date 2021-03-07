@@ -32,7 +32,7 @@ const App = () => {
 **Work experience:**  
 
 
-**Education:**   
+**Education:** Odessa National Polytechnic University (Left in 2019)  
 
 
 **Languages:** Native Russian and Ukrainian. C1-C2 English level. 3 years of work experience as an English language teacher. 
