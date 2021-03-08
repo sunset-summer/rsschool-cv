@@ -1,8 +1,22 @@
-body {
-    display: flex;
-    justify-content: center;
-}
-.profile-info {
-    width: 800px;
+main {
     font-size: 18px;
+    display: grid;
+    grid-template-columns: 25% 25% 25% 25%;
+    grid-template-rows: 45% 45% 10%;
+}
+img {
+    grid-column-start: 3;
+    grid-column-end: 4;
+}
+article {
+    grid-column-start: 2;
+    grid-column-end: 3;
+    grid-row-start: 1;
+}
+li {
+    list-style: none;
+}
+footer {
+    width: 100px;
+    margin: 0 auto;
 }
