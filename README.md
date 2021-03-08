@@ -1,1 +1,1 @@
-https://sunset-summer.github.io/rsschool-cv/cv.html
+https://sunset-summer.github.io/rsschool-cv/index.html
